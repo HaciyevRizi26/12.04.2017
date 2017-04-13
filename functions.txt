@@ -1,0 +1,10 @@
+Hər proqramlaşdırma dili çagırılanda vəzifələri yerinə yetirmək üçün kod blokları yaradır.
+Proqramlaşdırma dillərində,bu kod blokları funksiyalar adlandırılıb.
+Proqramlaşdırma dillərində giriş və çıxış idarəsi əsas problemlərdəndir.
+Bir neçə dillər məlumatların idarə olunması və çevirilməsi üçün funksiyalardan istifadə edirlər. 
+Bütün proqramlaşdırma funksiyalarının giriş və çıxışı var.
+Bəzi proqramlaşdırma dilləri funksiyalar arasında bir fərqlənmə yaradır hansılarki bəziləri dəyər qaytarır və əməliyyatları həyata keçirir,
+bəziləri isə müəyyən prosedurları həyata keçirir lakin,hec bir dəyər qaytarmır.
+Funksiyalar kodların yenidən yüksək səviyyədə yazılmasımı təmin edir.
+Funksiyalar haqqında ən yaxşı fikir odur ki,onlar bir neçə adla tanınırlar,məsələn:funksiyalar,methodlar,prosedurlar və s.
+Proqram təminatında kodu test etmek üçün,funksiyalardan istifadə en kiçik və ən təbiisidir.  
